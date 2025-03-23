@@ -1,4 +1,4 @@
-Here's a step-by-step guide to installing and running this media streaming app on your PC:
+Installation:
 Step 1: Install Node.js
 If you don't already have Node.js installed:
 
@@ -11,7 +11,7 @@ Step 2: Create a project folder
 Create a new folder on your PC where you want to store the application
 Open a command prompt or terminal
 Navigate to your project folder:
-Copycd path/to/your/folder
+cd path/to/your/folder
 
 Step 3: Set up the project
 
